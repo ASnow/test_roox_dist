@@ -3,7 +3,11 @@
 		"ogrn": "1117329002141",
 		"name": "ООО 'Метрика'",
 		"kpp":"732901001",
-		"executor":"Горевой Михаил Андреевич",
+		"executor": {
+			"firstName" : "Михаил",
+			"middleName": "Андреевич",
+			"lastName"  : "Горевой"
+		},
 		"birthdate":"12.08.1986",
 		"passport":"40 06 1234321",
 		"email":"mail@metrika.ru",
@@ -13,7 +17,11 @@
 		"ogrn":"109623000393",
 		"name":"ООО 'Вилар'",
 		"kpp":"623001001",
-		"executor":"Дубов Иван Иванович",
+		"executor":{
+			"firstName" :"Иван",
+			"middleName":"Иванович",
+			"lastName"  :"Дубов"
+		},
 		"birthdate":"09.04.1980",
 		"passport":"40 01 3214321",
 		"email":"info@vilar.com",
@@ -23,7 +31,11 @@
 		"ogrn":"309233021000042",
 		"name":"ИП Антонец Александр Сергеевич",
 		"kpp":"623001001",
-		"executor":"Антонец Александр Сергеевич",
+		"executor":{
+			"firstName"  :"Александр",
+			"middleName" :"Сергеевич",
+			"lastName"   :"Антонец"
+			},
 		"birthdate":"10.01.1976",
 		"passport":"40 02 4444321",
 		"email":"antonets@gmail.com",
