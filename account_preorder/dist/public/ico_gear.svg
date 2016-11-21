@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>ico_gear</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,0 C4.477,0 0,4.477 0,10 L0,10 C0,15.523 4.477,20 10,20 L10,20 C15.523,20 20,15.523 20,10 L20,10 C20,4.477 15.523,0 10,0 L10,0 Z M4,10 C4,6.686 6.686,4 10,4 L10,4 C13.314,4 16,6.686 16,10 L16,10 C16,13.314 13.314,16 10,16 L10,16 C6.686,16 4,13.314 4,10 L4,10 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ico_gear">
+            <g id="Group-7" transform="translate(4.000000, 4.000000)">
+                <path d="M6,2.5 C4.067,2.5 2.5,4.067 2.5,6 C2.5,7.933 4.067,9.5 6,9.5 C7.933,9.5 9.5,7.933 9.5,6 C9.5,4.067 7.933,2.5 6,2.5 M12,6 C12,9.314 9.314,12 6,12 C2.686,12 0,9.314 0,6 C0,2.686 2.686,0 6,0 C9.314,0 12,2.686 12,6" id="Fill-1" fill="#FFFFFF"></path>
+                <path d="M6,4.5 C5.448,4.5 5,5.172 5,6 C5,6.828 5.448,7.5 6,7.5 C6.552,7.5 7,6.828 7,6 C7,5.172 6.552,4.5 6,4.5" id="Fill-3" fill="#FFFFFF"></path>
+                <path d="M6,2.5 C4.067,2.5 2.5,4.067 2.5,6 C2.5,7.933 4.067,9.5 6,9.5 C7.933,9.5 9.5,7.933 9.5,6 C9.5,4.067 7.933,2.5 6,2.5 M12,6 C12,9.314 9.314,12 6,12 C2.686,12 0,9.314 0,6 C0,2.686 2.686,0 6,0 C9.314,0 12,2.686 12,6" id="Fill-5" fill="#93ACBE"></path>
+            </g>
+            <g id="Group-14">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-11"></g>
+                <polygon id="Fill-10" fill="#93ACBE" mask="url(#mask-2)" points="2 11 18 11 18 9 2 9"></polygon>
+                <polygon id="Fill-8" fill="#93ACBE" mask="url(#mask-2)" points="14.9498 3.636 16.3638 5.05 5.0498 16.364 3.6358 14.95"></polygon>
+                <polygon id="Fill-12" fill="#93ACBE" mask="url(#mask-2)" points="16.364 14.9498 14.95 16.3638 3.636 5.0498 5.05 3.6358"></polygon>
+                <polygon id="Fill-13" fill="#93ACBE" mask="url(#mask-2)" points="9 18 11 18 11 2 9 2"></polygon>
+            </g>
+            <path d="M10,8.5 C9.172,8.5 8.5,9.172 8.5,10 C8.5,10.828 9.172,11.5 10,11.5 C10.828,11.5 11.5,10.828 11.5,10 C11.5,9.172 10.828,8.5 10,8.5" id="Fill-15" fill="#93ACBE"></path>
+        </g>
+    </g>
+</svg>
