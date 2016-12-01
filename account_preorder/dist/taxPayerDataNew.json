@@ -1,0 +1,70 @@
+{
+	"7329004594": {
+		"data": [{
+			"legalData": {
+				"inn": "7329004594",
+				"ogrn": "1117329002141",
+				"kpp": "732901001",
+				"names": [{
+					"fullName": "ООО 'Метрика'",
+					"shortName": "ООО 'Метрика'",
+					"firmName": "ООО 'Метрика'"
+				}],
+				"contacts": [{
+					"contactType": "",
+					"contactSubType": "",
+					"address": ""
+				}]
+			},
+			"personalData": {
+				"document": [{
+					"firstName": "Михаил",
+					"lastName": "Горевой",
+					"middleName": "Андреевич",
+					"birthdate": "09.04.1980",
+					"docType": "",
+					"series": "",
+					"number": ""
+				}]
+			}
+		}],
+		"success": true,
+		"code": 1,
+		"message": "",
+		"stackTrace": ""
+	},
+	"450107835319": {
+		"data": [{
+			"legalData": {
+				"inn": "450107835319",
+				"ogrn": "309233021000042",
+				"kpp": "623001001",
+				"names": [{
+					"fullName": "ИП Антонец Александр Сергеевич",
+					"shortName": "ИП Антонец Александр Сергеевич",
+					"firmName": "ИП Антонец Александр Сергеевич"
+				}],
+				"contacts": [{
+					"contactType": "",
+					"contactSubType": "",
+					"address": ""
+				}]
+			},
+			"personalData": {
+				"document": [{
+					"firstName": "Александр",
+					"lastName": "Антонец",
+					"middleName": "Сергеевич",
+					"birthdate": "10.01.1976",
+					"docType": "",
+					"series": "",
+					"number": ""
+				}]
+			}
+		}],
+		"success": true,
+		"code": 1,
+		"message": "",
+		"stackTrace": ""
+	}
+}
